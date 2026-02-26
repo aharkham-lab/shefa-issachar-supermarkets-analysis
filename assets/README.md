@@ -1,7 +1,8 @@
-## Highlights
+# Assets
 
-![Recommendations](assets:shefa-recommendations.png)
+This folder contains images used in the main README (slide screenshots / key visuals).
 
-![Regression insight](assets:shefa-regression.png)
-
-![Peak hours heatmap](assets/:shefa-peak-hours.png)
+Files:
+- shefa-recommendations.png
+- shefa-regression.png
+- shefa-peak-hours.png
