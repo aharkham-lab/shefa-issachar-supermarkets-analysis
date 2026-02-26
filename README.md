@@ -12,10 +12,11 @@
 
 ## What’s in this repo
 - **/docs/**
-  - Project document / report (PDF)
+  - Project document (PDF)
   - Presentation (PDF)
   - SQL script (PDF)
   - Looker dashboard export (PDF)
+  - Looker Studio dashboard (live link in README)
 - **/assets/**
   - Slide screenshots / key visuals used in this README
 - **/sql/**
