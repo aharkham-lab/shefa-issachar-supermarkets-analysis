@@ -15,7 +15,7 @@
   - Project document / report (PDF)
   - Presentation (PDF)
   - SQL script (PDF)
-  - Dashboard export (PDF)
+  - Looker dashboard export (PDF)
 - **/assets/**
   - Slide screenshots / key visuals used in this README
 - **/sql/**
@@ -28,7 +28,7 @@ This project analyzes sales behavior, store performance, customer segmentation, 
 - Project Document (PDF): `docs/Shefa_Issachar_supermarkets_Project Document.pdf`
 - Presentation (PDF): `docs/Shefa_Issachar_supermarkets_Presentation.pdf`
 - SQL Script (PDF): `docs/Shefa_Issachar_supermarkets_SQL_Script.pdf`
-- Dashboard (PDF): `docs/Shefa_Issachar_Dashboard.pdf`
+- Dashboard (PDF): `docs/Shefa_Issachar_Looker_Dashboard.pdf`
 
 ## Tools
 - BigQuery (SQL)
