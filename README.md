@@ -28,7 +28,8 @@ This project analyzes sales behavior, store performance, customer segmentation, 
 - Project Document (PDF): `docs/Shefa_Issachar_supermarkets_Project Document.pdf`
 - Presentation (PDF): `docs/Shefa_Issachar_supermarkets_Presentation.pdf`
 - SQL Script (PDF): `docs/Shefa_Issachar_supermarkets_SQL_Script.pdf`
-- Dashboard (PDF): `docs/Shefa_Issachar_Looker_Dashboard.pdf`
+- Dashboard (PDF export): `docs/Shefa_Issachar_Looker_Dashboard.pdf`
+- Looker Studio Dashboard (live): https://lookerstudio.google.com/s/iEhBjNgwQfQ
 
 ## Tools
 - BigQuery (SQL)
