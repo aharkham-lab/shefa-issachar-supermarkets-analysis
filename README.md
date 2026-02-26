@@ -19,7 +19,7 @@
 - **/assets/**
   - Slide screenshots / key visuals used in this README
 - **/sql/**
-  - BigQuery SQL script used for the analysis (optional: add later as .sql)
+  - BigQuery SQL script used for the analysis: sql/00_shefa_issachar_monolith.sql
 
 ## Summary
 This project analyzes sales behavior, store performance, customer segmentation, and operational patterns to produce actionable recommendations, supported by a small regression component and a dashboard view.
