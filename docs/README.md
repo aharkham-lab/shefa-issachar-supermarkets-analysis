@@ -1,8 +1,9 @@
 # Docs
 
-This folder contains the project deliverables (PDFs):
+This folder contains the project deliverables:
 
-- Presentation
-- Project document
+- Presentation (PDF)
+- Project document (PDF)
 - SQL script (PDF)
 - Looker dashboard export (PDF)
+- Looker Studio dashboard (live): https://lookerstudio.google.com/s/iEhBjNgwQfQ
